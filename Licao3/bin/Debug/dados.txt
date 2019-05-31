@@ -1,0 +1,2 @@
+codigo do cliente;nome do cliente;endereco;telefone;cep;cidade;estado;nome do veiculo;ano de fabricacao;fabricante
+1;joao;rua10;34172361;383075343;uberlandia;mg;uno;2005;fiat

@@ -1,0 +1,2 @@
+codigo do cliente;nome do cliente;endereco;telefone;cep;cidade;estado;
+1;joao;rua10;34172361;383075343;uberlandia;mg;
